@@ -1,0 +1,17 @@
+.itemCantidad {
+    padding: 0;
+    justify-content: center;
+}
+
+.txtCantidad {
+    font-size: 1.5rem;
+    color: antiquewhite;
+
+}
+
+.btnCantidad {
+    font-size: 1.5rem;
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 2rem;
+}

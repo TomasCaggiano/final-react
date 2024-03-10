@@ -1,0 +1,9 @@
+.logo-container {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .logo-imagen {
+    border-radius: 5px;
+  }
+  
